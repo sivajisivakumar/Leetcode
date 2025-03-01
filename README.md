@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sivajisivakumar/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/sivajisivakumar/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/sivajisivakumar/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sivajisivakumar/Leetcode/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sivajisivakumar/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sivajisivakumar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/sivajisivakumar/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sivajisivakumar/Leetcode/tree/master/0415-add-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -66,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sivajisivakumar/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sivajisivakumar/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
