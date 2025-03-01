@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sivajisivakumar/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sivajisivakumar/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sivajisivakumar/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/sivajisivakumar/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivajisivakumar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sivajisivakumar/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sivajisivakumar/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
