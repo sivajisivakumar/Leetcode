@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sivajisivakumar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/sivajisivakumar/Leetcode/tree/master/0125-valid-palindrome) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivajisivakumar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2551-apply-operations-to-an-array](https://github.com/sivajisivakumar/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sivajisivakumar/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivajisivakumar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/sivajisivakumar/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2551-apply-operations-to-an-array](https://github.com/sivajisivakumar/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/sivajisivakumar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sivajisivakumar/Leetcode/tree/master/0415-add-strings) |
+| [2551-apply-operations-to-an-array](https://github.com/sivajisivakumar/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Tree
 |  |
 | ------- |
