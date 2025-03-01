@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sivajisivakumar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/sivajisivakumar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sivajisivakumar/Leetcode/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/sivajisivakumar/Leetcode/tree/master/0520-detect-capital) |
 ## String Matching
 |  |
 | ------- |
