@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sivajisivakumar/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sivajisivakumar/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/sivajisivakumar/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sivajisivakumar/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sivajisivakumar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sivajisivakumar/Leetcode/tree/master/0415-add-strings) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivajisivakumar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sivajisivakumar/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sivajisivakumar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sivajisivakumar/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sivajisivakumar/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sivajisivakumar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivajisivakumar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sivajisivakumar/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sivajisivakumar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sivajisivakumar/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/sivajisivakumar/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sivajisivakumar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sivajisivakumar/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sivajisivakumar/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sivajisivakumar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sivajisivakumar/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sivajisivakumar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivajisivakumar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -110,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sivajisivakumar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sivajisivakumar/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sivajisivakumar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
