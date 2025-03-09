@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sivajisivakumar/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sivajisivakumar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivajisivakumar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/sivajisivakumar/Leetcode/tree/master/1168-duplicate-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/sivajisivakumar/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sivajisivakumar/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sivajisivakumar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivajisivakumar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/sivajisivakumar/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1603-running-sum-of-1d-array](https://github.com/sivajisivakumar/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/sivajisivakumar/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
